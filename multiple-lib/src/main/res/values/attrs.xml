@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Multiple Status View start -->
+    <declare-styleable name="MultipleStatusView">
+        <attr name="content_view" format="reference" />
+        <attr name="loading_view" format="reference" />
+        <attr name="empty_view" format="reference" />
+        <attr name="error_view" format="reference" />
+        <attr name="dis_network_view" format="reference" />
+    </declare-styleable>
+    <!-- Multiple Status View end -->
+</resources>
