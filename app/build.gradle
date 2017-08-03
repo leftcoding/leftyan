@@ -30,6 +30,6 @@ dependencies {
     })
     compile 'com.android.support.constraint:constraint-layout:1.0.2'
     testCompile 'junit:junit:4.12'
-//    compile project(':multiple-lib')
-    compile 'com.ling.leftyan:multiple-lib:0.0.1'
+    compile project(':multiple-lib')
+//    compile 'com.ling.leftyan:multiple-lib:0.0.1'
 }
