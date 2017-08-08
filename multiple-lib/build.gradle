@@ -2,11 +2,11 @@ apply plugin: 'com.android.library'
 apply plugin: 'com.jfrog.bintray'
 apply plugin: 'com.github.dcendents.android-maven'
 
-ext{
-    PUBLISH_GROUP_ID = 'com.ling.leftyan'
-    PUBLISH_ARTIFACT_ID = 'multiple-lib'
-    PUBLISH_VERSION = '1.0'
-}
+//ext{
+//    PUBLISH_GROUP_ID = 'com.ling.leftyan'
+//    PUBLISH_ARTIFACT_ID = 'multiple-lib'
+//    PUBLISH_VERSION = '1.0'
+//}
 
 ext {
     bintrayRepo = 'maven'

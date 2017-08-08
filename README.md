@@ -3,6 +3,11 @@
 # MultipleStatusView
 
 ### 使用 ###
+gradle 使用
+```
+compile 'com.ling.leftyan:multiple-lib:0.0.1'
+```
+
 ```
 <com.mvc.multiple.MultipleStatusView
         android:id="@+id/multiple"
